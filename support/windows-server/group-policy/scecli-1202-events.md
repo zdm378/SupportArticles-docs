@@ -41,7 +41,7 @@ To troubleshoot this issue, follow these steps:
     1. Start Registry Editor.
     2. Locate and then select the following registry subkey:
 
-        `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F7 9F83A}`  
+        `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A}`  
 
     3. On the **Edit** menu, select **Add Value**, and then add the following registry value:
 
